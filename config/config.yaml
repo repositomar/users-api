@@ -1,0 +1,8 @@
+http:
+  port: ${PORT:-3000}
+
+security:
+  apiKey: ${API_KEY}
+
+ghibliApi:
+  url: ${GHIBLI_API}
